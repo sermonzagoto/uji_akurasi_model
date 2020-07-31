@@ -11,7 +11,7 @@ Ringkasan Akurasi Model
 Berdasarkan hasil dan ringkasan model, dapat disimpulkan bahwa model dengan akurasi terbaik dimiliki oleh Logistic Regression. Hal ini dikarenakan performa dari model Logistic Regression cenderung mampu memprediksi sama baiknya di fase training maupun testing.
 
 Untuk mengunduh hasil project saya di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
-git clone https://github.com/sermonzagoto/Data_Manipulation_with_Pandas.git
+git clone https://github.com/sermonzagoto/uji_akurasi_model.git
 Atau meng-klik tombol hijau bertuliskan "Code" dan "Download ZIP" di bagian kanan atas halaman ini.
 
 # ⚙️ Instalasi
