@@ -8,7 +8,7 @@ Ringkasan Akurasi Model
 2. Decision Tree Classifier (akurasi training 100%, akurasi testing 73%)
 3. Naive Bayes Classifier (akurasi training 74%, akurasi testing 73%)
 
-Berdasarkan hasil dan ringkasan model, dapat disimpulkan bahwa model dengan akurasi terbaik dimiliki oleh Logistic Regression. Hal ini dikarenakan performa dari model Logistic Regression cenderung mampu memprediksi sama baiknya di fase training maupun testing.
+Dapat dilihat bahwa model Logistic Regression dan Naive Bayes mampu memprediksi sama baiknya di fase training maupun testing. Namun pada akhirnya model terbaik dimiliki oleh model Logistic Regression karena memiliki angka akurasi yang tinggi di banding model Naive Bayes.
 
 Untuk mengunduh hasil project saya di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
 git clone https://github.com/sermonzagoto/uji_akurasi_model.git
